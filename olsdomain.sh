@@ -194,6 +194,13 @@ fn_install_ssl() {
 	echo
         echoY "Installing SSL ..."
 	echo
+	if [ -e "/usr/bin/certbot-auto" ] ; then
+			echo "cerbot-auto installed" >/dev/null 2>&1
+		else
+			wget -P /usr/bin https://dl.eff.org/certbot-auto
+			chmod a+x /usr/bin/certbot-auto
+	fi
+	}
         $SERVER_ROOT/bin/lswsctrl stop >/dev/null 2>&1
         /usr/bin/certbot-auto certonly --standalone -n --preferred-challenges http --agree-tos --expand --email $EMAIL -d $DOMAIN$VIRTHOST
         echo
