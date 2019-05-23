@@ -1,5 +1,11 @@
 # OLSSCRIPTS-olsdomain
-Olsdomain is a one-click installation script for OpenLiteSpeed which automates Installation of addon domains and configures SSL.
+
+Description
+--------
+
+Olsdomain is a one-click OpenLiteSpeed installation script for adding a domain/subdomain, configuring OLS admin for the new domain and installing an SSL certificate for the new domain and existing domains on the server. 
+
+Using this script, you can quickly and easily install OpenLiteSpeed with some modified config settings giving you the advantage of not having to further carry out additional tweaks within the OLS Admin panel before your site is fully up and running.
 
 
 <b>Example Usage:</b>
