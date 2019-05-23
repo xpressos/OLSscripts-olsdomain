@@ -20,4 +20,4 @@ This script was designed to work following the use of the OLSsite script (It may
 <br><b>Important:</b>
 <br>You must specify an email, a domain and the server path for your site files. <br>All three flags (-e / -d / -p) are necessary for the script to run successfully.
 
-<br>This script is designed to run with Letsencrypt CertBot-Auto - This binary should be Installed under: /usr/bin/
+<br><b>This script is designed to run with Letsencrypt CertBot-Auto - This binary should be Installed under: /usr/bin/</b>
