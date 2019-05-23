@@ -9,4 +9,4 @@ Olsdomain is a one-click installation script for OpenLiteSpeed which automates I
 <br><b>Important:</b>
 <br>You must specify an email, a domain and the server path for your site files. <br>All three flags (-e / -d / -p) are necessary for the script to run successfully.
 
-<br>This script is designed to run with Letsencrypt CertBot-Auto - This binary should be Installed in: /usr/bin/
+<br>This script is designed to run with Letsencrypt CertBot-Auto - This binary should be Installed under: /usr/bin/
