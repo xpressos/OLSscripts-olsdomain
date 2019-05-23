@@ -10,7 +10,7 @@ The script automates the domain setup process in OpenLiteSpeed, saving you time 
 <br>-Setting up/configuring the domain through the OLS Admin panel.
 
 This script was designed to work following the use of the OLSsite script (It may/may not work independently):
-<br>https://github.com/xpressos/OLSSCRIPTS-olssite
+<br>https://github.com/xpressos/OLSscripts-olssite
 
 
 <br><b>Example Usage:</b>
