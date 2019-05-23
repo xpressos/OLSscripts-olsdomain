@@ -42,10 +42,10 @@ VIRTHOST=$(ps -ef | awk '{for (I=1;I<=NF;I++) if ($I == "virtualhost") {printf e
 
 fn_display_license() {
     echo
-    echoY '**************************************************************************'
-    echoY '*        Open LiteSpeed One-Click Domain Installation, Version 1.0       *'
-    echoY '*                    Copyright (C) 2019 Xpressos CDC.                    *'
-    echoY '**************************************************************************'
+    echoY '*************************************************************************'
+    echoY '*       Open LiteSpeed One-Click Domain Installation, Version 1.0       *'
+    echoY '*                   Copyright (C) 2019 Xpressos CDC.                    *'
+    echoY '*************************************************************************'
 }
 
 fn_install_info() {
