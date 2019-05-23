@@ -21,3 +21,5 @@ This script was designed to work following the use of the OLSsite script (It may
 <br>You must specify an email, a domain and the server path for your site files. <br>All three flags (-e / -d / -p) are necessary for the script to run successfully.
 
 <br><b>This script is designed to run with Letsencrypt CertBot-Auto - This binary should be Installed under: /usr/bin/</b>
+
+<br><b> Tested on Centos 7 only.</b>
