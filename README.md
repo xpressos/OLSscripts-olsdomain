@@ -1,4 +1,4 @@
-# Olsdomain - One click OpenLiteSpeed Domain Install (with SSL)
+# Olsdomain - One click OpenLiteSpeed Domain Install
 
 Description
 --------
