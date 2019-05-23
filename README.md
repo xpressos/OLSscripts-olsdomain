@@ -1,5 +1,5 @@
 # OLSSCRIPTS-olsdomain
-Olsdomain is a one-click installation script for OpenLiteSpeed which Installs/configures an additional domain with SSL.
+Olsdomain is a one-click installation script for OpenLiteSpeed which automates Installation of addon domains and configures SSL.
 
 
 <b>Example Usage:</b>
@@ -8,3 +8,5 @@ Olsdomain is a one-click installation script for OpenLiteSpeed which Installs/co
 
 
 <br><b>You must specify an email, a domain and the server path for your site files. <br>All three flags (-e / -d / -p) are necessary for the script to run successfully.</b>
+
+<br>This script is designed to run with Letsencrypt CertBot Auto - This should be Installed in: /usr/bin/
