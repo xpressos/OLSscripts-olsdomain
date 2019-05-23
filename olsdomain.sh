@@ -150,7 +150,6 @@ fn_check_os() {
 
 fn_install_site() {
     if [ ! -e "$SITEPATH" ] ; then
-            echo
 	    echo
     	    echoY "Installing your Site ..."
 	    echo
