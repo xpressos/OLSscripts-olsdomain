@@ -7,7 +7,7 @@ Olsdomain is a one-click OpenLiteSpeed installation script for adding a domain/s
 
 The script automates the domain setup process in OpenLiteSpeed, saving you time by not having to create the site folders manually on your server and setting up/configuring the domain through the OLS Admin panel.
 
-This script was designed to work following the use of OLSsite script:
+This script was designed to work following the use of the OLSsite script:
 https://github.com/xpressos/OLSSCRIPTS-olssite
 
 
