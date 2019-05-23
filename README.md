@@ -13,7 +13,7 @@ This script was designed to work following the use of the OLSsite script (It may
 <br>https://github.com/xpressos/OLSSCRIPTS-olssite
 
 
-<b>Example Usage:</b>
+<br><b>Example Usage:</b>
 
 ./olsdomain.sh -e myemail@gmail.com -d domain.com -p /usr/local/lsws/www/domain.com/html
 
