@@ -54,6 +54,8 @@ echoY "Installing your New Domain with the following parameters:"
 echoY "Enable SSL:       " "Yes"
 echoY "Site Domain:      " "$DOMAIN"
 echoY "Site Path:        " "$SITEPATH"
+echo "=============================================================================="
+echo
 }
 
 fn_check_os() {
@@ -131,7 +133,7 @@ fn_check_os() {
     if [ "x$OSNAMEVER" = "x" ] ; then
         echoR "Sorry, currently one click installation only supports Centos(6,7), Debian(7-9) and Ubuntu(14,16,18)."
         echoR "You can download the source code and build from it."
-        echoR "The url of the source code is https://github.com/olsscripts/olssite."
+        echoR "The url of the source code is https://github.com/xpressos/OLSscripts-olsdomain."
         echo 
         exit 1
     else
