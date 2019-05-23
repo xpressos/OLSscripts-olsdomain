@@ -153,7 +153,7 @@ fn_install_site() {
     	    echoY "Installing your Site ..."
 	    echo
             mkdir -p $SITEPATH
-	    wget -P $SITEPATH https://github.com/xpressos/OLSSCRIPTS-olsdomain/raw/master/sitefiles.tar.gz
+	    wget -P $SITEPATH https://github.com/xpressos/OLSscripts-olsdomain/raw/master/sitefiles.tar.gz
 	    cd $SITEPATH
 	    tar -xzf sitefiles.tar.gz
 	    rm sitefiles.tar.gz
