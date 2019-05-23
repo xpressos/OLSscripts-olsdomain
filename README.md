@@ -5,9 +5,11 @@ Description
 
 Olsdomain is a one-click OpenLiteSpeed installation script for adding a domain/subdomain to your server, configuring OLS for the new domain and installing an SSL certificate for all domains on the server using Letsencrypt Certbot-Auto. 
 
-The script automates the domain setup process in OpenLiteSpeed, saving you time by not having to create the site folders manually on your server and setting up/configuring the domain through the OLS Admin panel.
+The script automates the domain setup process in OpenLiteSpeed, saving you time by not having to: 
+<br>-Create the site folders manually on your server. 
+<br>-Setting up/configuring the domain through the OLS Admin panel.
 
-This script was designed to work following the use of the OLSsite script:
+This script was designed to work following the use of the OLSsite script (It may/may not work independently):
 <br>https://github.com/xpressos/OLSSCRIPTS-olssite
 
 
