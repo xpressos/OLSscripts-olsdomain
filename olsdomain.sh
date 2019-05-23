@@ -54,7 +54,7 @@ echoY "Installing your New Domain with the following parameters:"
 echoY "Enable SSL:       " "Yes"
 echoY "Site Domain:      " "$DOMAIN"
 echoY "Site Path:        " "$SITEPATH"
-echo "=========================================================================="
+echo "========================================================================="
 echo
 }
 
