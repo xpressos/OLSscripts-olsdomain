@@ -22,4 +22,4 @@ This script was designed to work following the use of the OLSsite script (It may
 
 <br><b>This script is designed to run with Letsencrypt CertBot-Auto - This binary should be Installed under: /usr/bin/</b>
 
-<br><b> Tested on Centos 7 only.</b>
+<b> Tested on Centos 7 only.</b>
